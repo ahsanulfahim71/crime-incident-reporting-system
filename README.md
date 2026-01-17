@@ -113,20 +113,19 @@ Screenshots of the application are available in the `/screenshots` folder.
 ## 👥 Team Members & Contributions
 
 ### Ahsanul Fahim Ahmed
-- Designed and implemented the MySQL database schema  
-- Performed database normalization (1NF, 2NF, 3NF)  
-- Developed crime report submission functionality  
-- Implemented report status tracking for users  
-- Built police station details and police station dashboard  
-- Backend development using PHP and MySQL  
+- Designed and implemented the core MySQL database schema and relationships  
+- Developed the crime report submission and storage workflow  
+- Implemented report status tracking and user-facing report views  
+- Built police station information pages and police dashboard functionality  
+- Implemented backend data handling using PHP and MySQL  
 
 ### Md Ashraful Hoque
-- Designed and developed the admin dashboard  
-- Implemented admin-side crime report management  
+- Designed and developed the administrative dashboard and workflows  
+- Implemented admin-side crime report review and management features  
 - Developed user and police station management modules  
-- Built system-wide statistics and analytics dashboard  
-- Implemented role-based access control (RBAC)  
-- Frontend styling and administrative workflows  
+- Built system-wide statistics and analytics for administrative insights  
+- Implemented role-based access control (RBAC) and session-based authorization  
+- Handled frontend styling and usability for administrative interfaces  
 
 ---
 
